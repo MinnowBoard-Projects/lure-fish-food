@@ -9,7 +9,15 @@ You can purchase this lure with *[Netgate](https://store.netgate.com/Lures/FishF
 
 > Released under the Creative Commons Attribution 3.0 License     
 > https://creativecommons.org/licenses/by/3.0/   
-> _Designed using DipTrace 3.0
+> Designed using DipTrace 3.0
+
+
+## KiCad version added to this repository. 
+
+> Released under the Creative Commons Attribution 3.0 License     
+> https://creativecommons.org/licenses/by/3.0/   
+> Designed using KiCad 4.0.7
+> Located in this directory: Fish_Food_Lure_KiCad
 
 
 ![Fish Food Lure](/lure.jpg)
