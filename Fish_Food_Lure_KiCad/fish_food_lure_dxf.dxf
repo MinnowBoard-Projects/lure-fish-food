@@ -1,0 +1,180 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$ANGDIR
+  70
+0
+  9
+$CECOLOR
+  62
+256
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$EXTMIN
+  10
+0.0
+  20
+0.0
+  9
+$EXTMAX
+  10
+52.0
+  20
+47.0
+  9
+$FILLMODE
+  70
+1
+  9
+$MIRRTEXT
+  70
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LAYER
+  70
+17
+  0
+LAYER
+  2
+Board_Outline
+  70
+64
+  62
+13
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.1524
+  41
+0.1524
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.0
+  20
+0.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.0
+  20
+0.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.0
+  20
+11.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+32.5
+  20
+11.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+32.5
+  20
+47.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.5
+  20
+47.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.5
+  20
+11.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.0
+  20
+11.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.0
+  20
+0.0
+  42
+0
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF
